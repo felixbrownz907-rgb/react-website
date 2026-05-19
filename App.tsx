@@ -3,20 +3,20 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
-import VideoSection from "./components/VideoSection";
-import Courses from "./components/Courses";
-import AcademicCalendar from "./components/AcademicCalendar";
-import Campus from "./components/Campus";
-import Library from "./components/Library";
-import Testimonials from "./components/Testimonials";
-import FAQ from "./components/FAQ";
-import Partnerships from "./components/Partnerships";
-import CTA from "./components/CTA";
-import Footer from "./components/Footer";
-import BackToTop from "./components/BackToTop";
-import AIAssistant from "./components/AIAssistant";
+import Navbar from "./Navbar";
+import Hero from "./Hero";
+import VideoSection from "./VideoSection";
+import Courses from "./Courses";
+import AcademicCalendar from "./AcademicCalendar";
+import Campus from "./Campus";
+import Library from "./Library";
+import Testimonials from "./Testimonials";
+import FAQ from "./FAQ";
+import Partnerships from "./Partnerships";
+import CTA from "./CTA";
+import Footer from "./Footer";
+import BackToTop from "./BackToTop";
+import AIAssistant from "./AIAssistant";
 
 export default function App() {
   return (

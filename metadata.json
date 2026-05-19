@@ -1,0 +1,6 @@
+{
+  "name": "IT International Academy",
+  "description": "IT International Academy - A premier online IT training academy based in Lusaka, Zambia, empowering students globally with world-class technical education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
